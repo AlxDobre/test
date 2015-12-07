@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "test\r ====\r c2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlxDobre/test"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlxDobre/test/issues"
+  },
+  "homepage": "https://github.com/AlxDobre/test",
+  "dependencies": {
+    "async": "^1.5.0",
+    "tool1": "git+https://github.com/AlxDobre/test#tool1"
+  }
+}
