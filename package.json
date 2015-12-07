@@ -1,0 +1,22 @@
+{
+  "name": "tool1",
+  "version": "1.0.0",
+  "description": "tool1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlxDobre/test"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlxDobre/test/issues"
+  },
+  "homepage": "https://github.com/AlxDobre/test",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
